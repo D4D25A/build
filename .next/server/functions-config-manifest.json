@@ -1,0 +1,1 @@
+{"version":1,"functions":{"/api/orders/batch":{},"/api/auth/[...nextauth]":{},"/api/whitelist/check":{},"/api/whitelist/check-enabled":{}}}
